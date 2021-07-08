@@ -1,0 +1,6 @@
+
+scc@shawns-MBP ‹ master ● › : ~/Development/code/rack-intro
+[0] % rackup first.ru
+[2021-07-07 17:49:48] INFO  WEBrick 1.4.2
+[2021-07-07 17:49:48] INFO  ruby 2.6.1 (2019-01-30) [x86_64-darwin19]
+[2021-07-07 17:49:48] INFO  WEBrick::HTTPServer#start: pid=21278 port=9292
